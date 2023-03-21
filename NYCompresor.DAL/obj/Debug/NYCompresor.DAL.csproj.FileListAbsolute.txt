@@ -1,0 +1,6 @@
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\bin\Debug\NYCompresor.DAL.dll
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\bin\Debug\NYCompresor.DAL.pdb
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\obj\Debug\NYCompresor.DAL.csproj.AssemblyReference.cache
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\obj\Debug\NYCompresor.DAL.csproj.CoreCompileInputs.cache
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\obj\Debug\NYCompresor.DAL.dll
+D:\NY Developer\DailyChallenge2\NYCompresor.DAL\obj\Debug\NYCompresor.DAL.pdb

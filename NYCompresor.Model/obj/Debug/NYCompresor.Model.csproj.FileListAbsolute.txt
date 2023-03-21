@@ -1,0 +1,2 @@
+D:\NY Developer\DailyChallenge2\NYCompresor.Model\obj\Debug\NYCompresor.Model.csproj.AssemblyReference.cache
+D:\NY Developer\DailyChallenge2\NYCompresor.Model\obj\Debug\NYCompresor.Model.csproj.CoreCompileInputs.cache

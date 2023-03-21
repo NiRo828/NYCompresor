@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NYCompresor.Entities
+namespace NYCompresor.Model
 {
-    public class Class1
+    public class mdlFile
     {
+        public string Name { get; set; }
+        public string Path { get; set; }
     }
 }

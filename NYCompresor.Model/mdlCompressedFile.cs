@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace NYCompresor.Model
 {
-    public class Class1
+    public class mdlCompressedFile
     {
+        public string Path { get; set; }
+        public mdlCompressionType CompressionType { get; set; }
     }
 }

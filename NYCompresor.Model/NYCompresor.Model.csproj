@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="CompressedFile.cs" />
-    <Compile Include="Folder.cs" />
+    <Compile Include="mdlCompressedFile.cs" />
+    <Compile Include="mdlCompressionType.cs" />
+    <Compile Include="mdlFile.cs" />
+    <Compile Include="mdlFolder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
